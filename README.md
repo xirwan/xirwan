@@ -24,5 +24,5 @@ I am a fresh graduate from Bunda Mulia University, passionate about programming,
 ### Let's connect!
 <p>
     <a href="mailto:irwanwijaya178@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/irwan-irwan-26189931a/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+    <a href="https://www.linkedin.com/in/irwan-wijaya178"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 </p>
