@@ -17,9 +17,6 @@ I am a fresh graduate from Bunda Mulia University, passionate about programming,
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:irwanwijaya178@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xirwan&layout=compact" height=180 />
-</p>
 
 ### Let's connect!
 <p>
